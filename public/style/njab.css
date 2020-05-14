@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:ital@1&display=swap');
+
+body {
+  color: #eee;
+  background: #111;
+  font-family: 'DM Mono', monospace;
+}
+h1, h2, .center { text-align: center; }
+.header {
+  padding-top: 1em;
+  padding-bottom: 0;
+  border-bottom: 3px double;
+}
+.header pre {
+  font-weight: bold;
+}
